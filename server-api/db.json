@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "14051e63-93ad-4140-86d9-164c487e563c",
+      "name": "maxim",
+      "email": "maxim@yahoo.com"
+    },
+    {
+      "id": "00dc48b8-1bee-47cc-b7ca-d6fd2c4ea221",
+      "name": "nemanja",
+      "email": "nemanjavasic@yahoo.com"
+    },
+    {
+      "id": "368376b0-e398-4b20-9057-6ce0369ff5cd",
+      "name": "kole",
+      "email": "kosta@yahoo.com"
+    }
+  ]
+}
